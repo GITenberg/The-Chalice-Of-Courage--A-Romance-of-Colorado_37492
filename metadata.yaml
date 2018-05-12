@@ -1,0 +1,39 @@
+_repo: The-Chalice-Of-Courage--A-Romance-of-Colorado_37492
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Marchand, J. N.
+    gutenberg_agent_id: '6834'
+    url: http://www.gutenberg.org/2009/agents/6834
+  - agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_issued: '2011-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Western stories'
+- !lcsh 'Colorado -- Fiction'
+title: 'The Chalice Of Courage: A Romance of Colorado'
+url: http://www.gutenberg.org/ebooks/37492
