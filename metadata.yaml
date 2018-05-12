@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5591
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37492#The-Chalice-Of-Courage--A-Romance-of-Colorado
 gutenberg_issued: '2011-09-20'
 gutenberg_type: Text
 identifiers:
